@@ -1,4 +1,4 @@
-# Awesome-Web3-Api-Platform
+# Awesome-Web3-API-Platform
 
 ## Top Web3 API Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
