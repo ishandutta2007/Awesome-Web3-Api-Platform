@@ -1,6 +1,6 @@
 # Awesome-Web3-Api-Platform
 
-# Top Web3 API Platform Tools Ecosystem
+## Top Web3 API Platform Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Blockchain RPC, Node Infrastructure, Indexing, NFT & Wallet APIs, On-Chain Data & Developer Tooling*
 **Last updated: August 2026**
