@@ -1,6 +1,9 @@
+# Awesome-Web3-API-Platform
+
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Web3 API Platform Banner" width="100%" />
 </p>
+
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
